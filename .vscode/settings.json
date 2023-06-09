@@ -1,0 +1,6 @@
+{
+  "editor.minimap.autohide": true,
+  "editor.minimap.scale": 2,
+  "editor.minimap.showSlider": "mouseover",
+  "editor.minimap.renderCharacters": false
+}
